@@ -1,2 +1,2 @@
-# MuNN-REG
-Marking using Neural Networks - Regulatory Elements in Genome
+# DeepRIG
+Deep learning based Regulatory elements Identification in Genome
